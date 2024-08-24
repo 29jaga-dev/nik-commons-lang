@@ -5,3 +5,6 @@
 
 # その他の不要なファイル
 target/
+
+example.xlsx
+restored_example.xlsx
