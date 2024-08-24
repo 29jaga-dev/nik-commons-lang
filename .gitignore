@@ -1,0 +1,7 @@
+# IDEの設定ファイル
+.settings/
+.project
+.classpath
+
+# その他の不要なファイル
+target/
